@@ -239,12 +239,12 @@ def main(
         
       
        
-        st.stars()
+        st.ballons()
         st_player("https://youtu.be/NVYvnMEI97U")
         time.sleep(2.5)
-        st.stars()
+        st.ballons()
         time.sleep(2.5)
-        st.stars()
+        st.ballons()
        
 
 if __name__ == '__main__':
