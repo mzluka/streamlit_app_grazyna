@@ -221,26 +221,26 @@ def main(
     
     
     
-    st.sidebar.title('Веб-приложение для Марины')
-    st.sidebar.image('hi.jpg')
-    st.sidebar.info('Фамилия разработчика слишком известная :)')
+    st.sidebar.title('Веб-привет от Марины')
+    st.sidebar.image('9.jpg')
+    st.sidebar.info('Следуй за мечтой!!!')
     
     
-    st.markdown("<h1 style='text-align: center; '>Это Ваше первое приложение :).</h1>", unsafe_allow_html = True)
+    st.markdown("<h1 style='text-align: center; '>Гражине Тадеушевне посвящается:)</h1>", unsafe_allow_html = True)
     #st.image('hi.jpg', width=400)
    
     
-    st_player("https://www.youtube.com/watch?v=CCHdMIEGaaM")
+    st_player("https://www.youtube.com/watch?v=y4ZERjtcj4M")
     
 
     
-    if st.button("Нажми кнопку! Там ешё пару сюрпризов."):
+    if st.button("Жми смелее! Там ешё пару сюрпризов)"):
         
         
       
        
         st.balloons()
-        st_player("https://soundcloud.com/ahmed-mano-5/eminem_im-not-afraid")
+        st_player("https://youtu.be/NVYvnMEI97U")
         time.sleep(2.5)
         st.balloons()
         time.sleep(2.5)
