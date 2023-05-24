@@ -240,7 +240,7 @@ def main(
       
        
         st.balloons()
-        st_player("https://soundcloud.com/ahmed-mano-5/eminem_im-not-afraid")
+        st_player("https://youtu.be/NVYvnMEI97U")
         time.sleep(2.5)
         st.balloons()
         time.sleep(2.5)
